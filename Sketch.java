@@ -1,6 +1,10 @@
 import processing.core.PApplet;
 
 public class Sketch extends PApplet {
+
+  /**
+ * a program Sketch.java that displays a picture of flowers with a background
+ */
 	
 	
   /**
